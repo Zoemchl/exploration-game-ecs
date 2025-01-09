@@ -1,5 +1,5 @@
 # Fog Graveyard Exploration Game (Unity ECS)
-![Game Visual](Zombie-exploration/Assets/Art/Capture.PNG.meta)
+![Game Visual](Zombie-exploration/Assets/Art/Capture.PNG)
 
 
 ## **Description**
