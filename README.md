@@ -1,4 +1,6 @@
 # Fog Graveyard Exploration Game (Unity ECS)
+![Game Visual](Zombie-exploration/Assets/Art/Capture.PNG.meta)
+
 
 ## **Description**
 This project is a 3D exploration game built using Unity and the **Entity-Component-System (ECS)** architecture. The player controls a character tasked with collecting cubes randomly scattered across the map, but be careful, fog is all around.
